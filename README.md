@@ -18,4 +18,4 @@ This is Artificial intelligence lab task submission.
 Solution :
 #Problem 1 :
 * In order to build a simple Tic-Toc-Toe game using MinMax algorithm, i followed bellow resources as a guideline.
-[Tic Tac Toe Article (towarddataScience)] https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d
+[Tic Tac Toe Article (towarddataScience)](https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d)
