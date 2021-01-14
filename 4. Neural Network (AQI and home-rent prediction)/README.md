@@ -1,18 +1,9 @@
-# Air Quality Index prediction (Using Multiple Linear Regression)
-I collected the dataset from following source
+# Air Quality Index prediction  and Home Rent Prediction (Using Multiple Neural Network MLPRegression)
+* I collected the dataset from following source
 [Dataset](https://www.kaggle.com/rohanrao/air-quality-data-in-india)
 
-#Run Instruction
-Clone the git repository using the following command
+* Observe the dataset and performed data cleaning if required
 
-```
-git clone https://github.com/Rafa2016831028/Artificial-Intelligence
-```
-move to the directory
+* I used this [MLPRegressor] python library to build and fit my model
 
-```
-cd "Air Quality Index (Using Linear regression)"
-```
-Now run the python file 
-```
-python AQI.py
+* Calculated Mean squared error, Absolute squared error, Root mean squared error to evaluate model perfomance.
