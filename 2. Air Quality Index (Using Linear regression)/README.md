@@ -2,17 +2,8 @@
 I collected the dataset from following source
 [Dataset](https://www.kaggle.com/rohanrao/air-quality-data-in-india)
 
-#Run Instruction
-Clone the git repository using the following command
-
-```
-git clone https://github.com/Rafa2016831028/Artificial-Intelligence
-```
-move to the directory
-
-```
-cd "Air Quality Index (Using Linear regression)"
-```
-Now run the python file 
-```
-python AQI.py
+# Sollution : 
+As the dataset contain a lot of missing data , i cleaned the dataset first
+* I replaced the missing column values with the mediun value of the column
+* I dropped the quantitative charecteristics 
+* In order to perform regression algorithm , i preprocessed the data with LabelEncoder
